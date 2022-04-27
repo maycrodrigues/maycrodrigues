@@ -15,18 +15,18 @@
 - I’m deeply passionate about my work, and writing elegant, clean and efficient code is what excites me most. 
 - In my free time: I listen to tech podcasts, read tech blogs, and take many online courses in order to develop a growth mindset and become a better Engineer.
 
----
-### Technologies & Tools
 
 ![](https://img.shields.io/badge/S.O.L.I.D-✓-green?style=flat)
 ![](https://img.shields.io/badge/Clean_Architecture-✓-green?style=flat)
 ![](https://img.shields.io/badge/Clean_Code-✓-green?style=flat)
 ![](https://img.shields.io/badge/TDD-✓-green?style=flat)
-![](https://img.shields.io/badge/Node-✓-green?style=fla)
-![](https://img.shields.io/badge/TypeScript-✓-green?style=fla)
-![](https://img.shields.io/badge/JavaScript-✓-green?style=fla)
-![](https://img.shields.io/badge/VueJS-✓-green?style=fla)
-![](https://img.shields.io/badge/Angular-✓-green?style=fla)
-![](https://img.shields.io/badge/Svelte-✓-green?style=fla)
-![](https://img.shields.io/badge/React-✓-green?style=fla)
+
+![](https://img.shields.io/badge/NodeJS-✓-green?style=flat)
+![](https://img.shields.io/badge/TypeScript-✓-green?style=flat)
+![](https://img.shields.io/badge/JavaScript-✓-green?style=flat)
+
+![](https://img.shields.io/badge/VueJS-✓-green?style=flat)
+![](https://img.shields.io/badge/Angular-✓-green?style=flat)
+![](https://img.shields.io/badge/Svelte-✓-green?style=flat)
+![](https://img.shields.io/badge/React-✓-green?style=flat)
 
