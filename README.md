@@ -9,24 +9,38 @@
 
 ---
 
-### About me
+### Sobre
 
-- I'm a Software Engineer with 16+ years of experience in building scalable web applications.
-- I’m deeply passionate about my work, and writing elegant, clean and efficient code is what excites me most. 
-- In my free time: I listen to tech podcasts, read tech blogs, and take many online courses in order to develop a growth mindset and become a better Engineer.
+Com mais de 17 anos de experiência na construção de aplicações web escaláveis, sou um entusiasta apaixonado pelo meu trabalho. Tenho como principal motivação escrever código elegante, limpo e eficiente. Além disso, dedico meu tempo livre para ouvir podcasts de tecnologia, ler blogs sobre o assunto e participar de cursos que me ajudam a desenvolver uma mentalidade de crescimento e aprimorar minhas habilidades.
 
+Realizações:
+
+- Construção de aplicações web escaláveis e de alto desempenho;
+- Implementação de arquiteturas limpas e modularizadas;
+- Desenvolvimento de testes automatizados para garantir a qualidade do código;
+- Utilização de tecnologias modernas, como React, SolidJS, Vue, Angular, Svelte e Stencil, para criar experiências interativas e envolventes para os usuários;
+
+Contato:
+
+- maycrodriguess@gmail.com
+- https://about.me/maycrodrigues
+
+Habilidades:
 
 ![](https://img.shields.io/badge/S.O.L.I.D-✓-green?style=flat)
 ![](https://img.shields.io/badge/Clean_Architecture-✓-green?style=flat)
 ![](https://img.shields.io/badge/Clean_Code-✓-green?style=flat)
 ![](https://img.shields.io/badge/TDD-✓-green?style=flat)
 
+![](https://img.shields.io/badge/Remix-✓-green?style=flat)
 ![](https://img.shields.io/badge/NodeJS-✓-green?style=flat)
 ![](https://img.shields.io/badge/TypeScript-✓-green?style=flat)
 ![](https://img.shields.io/badge/JavaScript-✓-green?style=flat)
 
-![](https://img.shields.io/badge/VueJS-✓-green?style=flat)
-![](https://img.shields.io/badge/Angular-✓-green?style=flat)
-![](https://img.shields.io/badge/Svelte-✓-green?style=flat)
 ![](https://img.shields.io/badge/React-✓-green?style=flat)
+![](https://img.shields.io/badge/Angular-✓-green?style=flat)
+![](https://img.shields.io/badge/VueJS-✓-green?style=flat)
+![](https://img.shields.io/badge/Svelte-✓-green?style=flat)
+![](https://img.shields.io/badge/Stencil-✓-green?style=flat)
+
 
