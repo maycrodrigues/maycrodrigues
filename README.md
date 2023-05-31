@@ -2,6 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/maycrodrigues)](https://github.com/maycrodrigues) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maycrodrigues/)](https://www.linkedin.com/in/maycrodrigues/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/maycrodrigues/)](https://www.instagram.com/maycrodrigues/) 
 
 <a href="https://github.com/maycrodrigues/maycrodrigues">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=maycrodrigues&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=9400D3&bg_color=1d1f21&hide=contribs,issues,prs"/>
