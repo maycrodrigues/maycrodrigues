@@ -12,11 +12,11 @@
 
 ### Sobre
 
-Com mais de 17 anos de experiência na construção de aplicações web escaláveis, sou um entusiasta apaixonado pelo meu trabalho. Tenho como principal motivação escrever código elegante, limpo e eficiente. Além disso, dedico meu tempo livre para ouvir podcasts de tecnologia, ler blogs sobre o assunto e participar de cursos que me ajudam a desenvolver uma mentalidade de crescimento e aprimorar minhas habilidades.
+Com uma trajetória sólida com paixão por tecnologia, com foco em ajudar a formar profissionais, desenvolver produtos escaláveis e capacitar equipes multidisciplinares, buscando melhorias contínuas e alinhadas aos objetivos estratégicos de negócio, com comunicação estratégica, transparência e foco em princípios técnicos, como Clean Architecture, SOLID e TDD, para entregar soluções inovadoras, de alta qualidade, baseado em dados e resultados de métricas com impacto direto em KPIs, resolvendo problemas e com refinamento contínuo, agregando valor a cada priorização e tomada de decisão.
 
 Realizações:
 
-- Construção de aplicações web escaláveis e de alto desempenho;
+- Construção de aplicações web, mobile, desktop e tv escaláveis e de alto desempenho;
 - Implementação de arquiteturas limpas e modularizadas;
 - Desenvolvimento de testes automatizados para garantir a qualidade do código;
 - Utilização de tecnologias modernas, como React, SolidJS, Vue, Angular, Svelte e Stencil, para criar experiências interativas e envolventes para os usuários;
@@ -24,7 +24,6 @@ Realizações:
 Contato:
 
 - maycrodriguess@gmail.com
-- https://about.me/maycrodrigues
 
 Habilidades:
 
